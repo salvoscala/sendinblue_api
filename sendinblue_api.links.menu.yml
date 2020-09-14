@@ -1,0 +1,4 @@
+sendinblue_api.settings:
+  title: 'Sendinblue Api'
+  parent: system.admin_config_system
+  route_name: sendinblue_api.settings

@@ -1,0 +1,3 @@
+administer sendinblue api settings:
+  title: 'Administer sendinblue api settings'
+  description: 'Allows users manage sendinblue api settings.'

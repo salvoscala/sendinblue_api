@@ -1,0 +1,7 @@
+sendinblue_api.settings:
+  path: '/admin/config/system/sendinblue-api'
+  defaults:
+    _form: '\Drupal\sendinblue_api\Form\SendinblueApiSettingsForm'
+    _title: 'Sendinblue Api settings form'
+  requirements:
+    _permission: 'administer sendinblue api settings'
